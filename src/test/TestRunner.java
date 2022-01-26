@@ -6,7 +6,7 @@ import org.junit.runner.notification.Failure;
 import org.junit.runners.AllTests;
 
 /**
- * @author roman - rggeleta
+ * @author Roman - rggeleta
  * CIS175 - Spring 2022
  * Jan 24, 2022
  */

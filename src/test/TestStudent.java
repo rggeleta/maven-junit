@@ -23,10 +23,7 @@ public class TestStudent {
 	public void setup() throws Exception{
 		
 	}
-	@Test
-	public void test() {
-		assertEquals(studentName, student.printStudentName());
-	}
+	
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
 	}
